@@ -1,13 +1,8 @@
-def hcf(a, b):
-    while b != 0:
-        a, b = b, a % b
-    return a
+import math
 
-# Taking input from the user
 num1 = int(input("Enter the first number: "))
 num2 = int(input("Enter the second number: "))
 
-# Calculating the HCF
-result = hcf(num1, num2)
+result = math.gcd(num1, num2) # gcd and hcf same thing
 
 print("The HCF of", num1, "and", num2, "is:", result)
