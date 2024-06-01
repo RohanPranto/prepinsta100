@@ -1,3 +1,5 @@
+##if a number is PALINDROME or not
+
 num = int(input("Enter a number: "))
 reversed_num = int(str(num)[::-1])
 
