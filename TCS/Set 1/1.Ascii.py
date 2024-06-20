@@ -1,5 +1,17 @@
 ##ASCII Value of a Character
-# Write a python program to find the ASCII value of a given single character.
-
 character = input("Enter a character: ")
-print("The ASCII value of '" + character + "' is", ord(character))
+print(ord(character))
+
+# Output
+# Enter a character: A
+# 65
+
+
+
+#ASCII Value of a Character
+ascii_value = int(input("Enter an ASCII value: "))
+print(chr(ascii_value))
+
+# Output
+# Enter an ASCII value: 65
+# A
