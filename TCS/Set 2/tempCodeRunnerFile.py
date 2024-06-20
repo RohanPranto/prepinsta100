@@ -1,0 +1,1 @@
+arr = [int(i) for i in arr] #Converting string array to integer array

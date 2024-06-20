@@ -39,7 +39,7 @@
 16.	Sum of Elements in a Given Array
 17.	Remove Duplicates from a Sorted Array
 18.	Program to Check if an Array is Sorted or Not
-19.	Remove Duplicates from an Unsorted Array Using Map Data Structure
+19.	Remove Duplicates from an Unsorted Array Using Map Data     Structure
 20.	Block Swap Algorithm for Array Rotation
 21.	Average of an Array (Iterative and Recursive)
 22.	Add an Element to an Array
