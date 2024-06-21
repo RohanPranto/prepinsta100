@@ -165,3 +165,11 @@ result = ""
 for digit in str(number):
     result += words[int(digit)] + " "
 print(result.strip())
+
+
+
+#remove duplicate elements from array
+array=input("Enter elements by space: ")
+array=list(map(int, array.split()))
+array=set(array) #set removes duplicates
+print(array)

@@ -22,7 +22,7 @@ for i in range(1,int(input("Enter a number: "))+1):
 # ****
 
 #######################################
-
+#PYRAMID
 n=int(input("Enter the number of rows: "))
 
 for i in range(1, n + 1):
